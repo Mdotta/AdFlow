@@ -1,0 +1,23 @@
+<div class="dashboard-container">
+  <div class="dashboard-header">
+    <h1>AdFlow Dashboard</h1>
+    <button class="logout-btn" (click)="logout()">Logout</button>
+  </div>
+
+  <div class="user-info" *ngIf="currentUser">
+    <div class="user-avatar">
+      <img [src]="currentUser.profilePictureUrl || 'assets/default-avatar.png'" alt="Profile Picture">
+    </div>
+    <div class="user-details">
+      <h2>Welcome, {{ currentUser.name }}!</h2>
+      <p><strong>Email:</strong> {{ currentUser.email }}</p>
+      <p><strong>Facebook ID:</strong> {{ currentUser.facebookId }}</p>
+      <p *ngIf="currentUser.lastLoginAt"><strong>Last Login:</strong> {{ currentUser.lastLoginAt | date:'medium' }}</p>
+    </div>
+  </div>
+
+  <div class="dashboard-content">
+    <h3>Your Dashboard</h3>
+    <p>You are successfully logged in with Facebook authentication!</p>
+  </div>
+</div>
