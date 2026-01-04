@@ -1,0 +1,6 @@
+@AdFlow.WebAPI_HostAddress = http://localhost:5065
+
+GET {{AdFlow.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
