@@ -1,0 +1,16 @@
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/bin/Debug/net10.0/AdFlow.Application.deps.json
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/bin/Debug/net10.0/AdFlow.Application.dll
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/bin/Debug/net10.0/AdFlow.Application.pdb
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/bin/Debug/net10.0/AdFlow.Domain.dll
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/bin/Debug/net10.0/AdFlow.Domain.pdb
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/obj/Debug/net10.0/AdFlow.Application.csproj.AssemblyReference.cache
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/obj/Debug/net10.0/AdFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/obj/Debug/net10.0/AdFlow.Application.AssemblyInfoInputs.cache
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/obj/Debug/net10.0/AdFlow.Application.AssemblyInfo.cs
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/obj/Debug/net10.0/AdFlow.Application.csproj.CoreCompileInputs.cache
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/obj/Debug/net10.0/AdFlow.Application.sourcelink.json
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/obj/Debug/net10.0/AdFlow.A.9A17601A.Up2Date
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/obj/Debug/net10.0/AdFlow.Application.dll
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/obj/Debug/net10.0/refint/AdFlow.Application.dll
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/obj/Debug/net10.0/AdFlow.Application.pdb
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Application/obj/Debug/net10.0/ref/AdFlow.Application.dll

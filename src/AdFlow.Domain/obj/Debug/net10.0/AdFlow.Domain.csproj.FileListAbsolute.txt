@@ -1,0 +1,12 @@
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Domain/bin/Debug/net10.0/AdFlow.Domain.deps.json
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Domain/bin/Debug/net10.0/AdFlow.Domain.dll
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Domain/bin/Debug/net10.0/AdFlow.Domain.pdb
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Domain/obj/Debug/net10.0/AdFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Domain/obj/Debug/net10.0/AdFlow.Domain.AssemblyInfoInputs.cache
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Domain/obj/Debug/net10.0/AdFlow.Domain.AssemblyInfo.cs
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Domain/obj/Debug/net10.0/AdFlow.Domain.csproj.CoreCompileInputs.cache
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Domain/obj/Debug/net10.0/AdFlow.Domain.sourcelink.json
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Domain/obj/Debug/net10.0/AdFlow.Domain.dll
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Domain/obj/Debug/net10.0/refint/AdFlow.Domain.dll
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Domain/obj/Debug/net10.0/AdFlow.Domain.pdb
+/home/runner/work/AdFlow/AdFlow/src/AdFlow.Domain/obj/Debug/net10.0/ref/AdFlow.Domain.dll
