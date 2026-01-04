@@ -52,10 +52,10 @@ dotnet build
 
 # Execute a API
 cd src/AdFlow.WebAPI
-dotnet run --urls=http://localhost:5000
+dotnet run
 ```
 
-A API estará disponível em: `http://localhost:5000`
+A API estará disponível em: `http://localhost:5065`
 
 ### 2. Frontend (Angular)
 
@@ -67,9 +67,8 @@ cd client
 npm install
 
 # IMPORTANTE: Configure o Facebook App ID
-# Edite: src/index.html
-# Linha: appId: 'YOUR_FACEBOOK_APP_ID'
-# Substitua por seu App ID real
+# Edite: src/environments/environment.ts
+# Substitua facebookAppId por seu App ID real
 
 # Execute o servidor de desenvolvimento
 npm start

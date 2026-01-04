@@ -59,7 +59,7 @@ cd src/AdFlow.WebAPI
 dotnet run
 ```
 
-The API will be available at `http://localhost:5000`
+The API will be available at `http://localhost:5065`
 
 ### 3. Frontend Setup
 
@@ -75,13 +75,17 @@ Install dependencies:
 npm install
 ```
 
-Update the Facebook App ID in `src/index.html`:
+Update the Facebook App ID in `src/environments/environment.ts`:
 
 ```javascript
-appId: 'YOUR_FACEBOOK_APP_ID'  // Replace with your actual Facebook App ID
+export const environment = {
+  production: false,
+  facebookAppId: 'YOUR_ACTUAL_FACEBOOK_APP_ID', // Replace with your actual Facebook App ID
+  apiUrl: 'http://localhost:5065/api'
+};
 ```
 
-Update the API URL in `src/app/services/auth.ts` if needed (default is `http://localhost:5000/api`).
+**Note:** Never commit your actual Facebook App ID to version control in production. Use environment variables or build-time configuration.
 
 Run the development server:
 

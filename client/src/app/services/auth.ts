@@ -3,6 +3,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable, BehaviorSubject } from 'rxjs';
 import { tap } from 'rxjs/operators';
 import { FacebookLoginRequest, FacebookLoginResponse, FacebookUser } from '../models/auth.models';
+import { environment } from '../../environments/environment';
 
 declare const FB: any;
 
@@ -10,7 +11,7 @@ declare const FB: any;
   providedIn: 'root',
 })
 export class Auth {
-  private apiUrl = 'http://localhost:5000/api';
+  private apiUrl = environment.apiUrl;
   private currentUserSubject = new BehaviorSubject<FacebookUser | null>(null);
   public currentUser$ = this.currentUserSubject.asObservable();
 

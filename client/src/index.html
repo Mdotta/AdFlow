@@ -7,14 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <script>
+    // Facebook SDK will be initialized from the app with environment-specific App ID
     window.fbAsyncInit = function() {
-      FB.init({
-        appId      : 'YOUR_FACEBOOK_APP_ID',
-        cookie     : true,
-        xfbml      : true,
-        version    : 'v18.0'
-      });
-      FB.AppEvents.logPageView();
+      // Will be called from main.ts with proper configuration
     };
 
     (function(d, s, id){
